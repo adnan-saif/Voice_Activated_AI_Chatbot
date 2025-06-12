@@ -1,5 +1,5 @@
 VOICE-ACTIVATED AI CHATBOT – USAGE GUIDE
-=========================================
+==========================================
 
 Welcome to your personal AI voice assistant built in Python. This guide explains how to use
 its features effectively, what voice commands it supports, and how to troubleshoot common issues.
