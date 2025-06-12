@@ -2,7 +2,7 @@ Voice-Activated AI Chatbot – Setup Instructions
 =================================================
 
 1. Requirements:
--------------------
+------------------
 - Python 3.8 or above
 - Internet connection (for voice recognition and Wikipedia)
 - Microphone and speaker access
