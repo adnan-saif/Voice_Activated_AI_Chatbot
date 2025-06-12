@@ -2,7 +2,7 @@
 
 ## 📘 Introduction
 
-The **Voice Activated AI Chatbot** is a Python-based desktop application that interacts with the user using natural voice commands. It can answer questions using Wikipedia, open websites, report the time, take voice notes, set reminders, and more — all through voice interaction. It also includes a background scheduler to trigger time-based reminders.
+The **Voice Activated AI Chatbot** is a Python-based desktop application that interacts with the user using natural voice commands. It can answer questions using Wikipedia, open websites, report the time, take voice notes, set reminders, and more all through voice interaction. It also includes a background scheduler to trigger time-based reminders.
 
 ---
 
