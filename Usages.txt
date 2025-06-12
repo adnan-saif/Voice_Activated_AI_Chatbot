@@ -1,0 +1,78 @@
+VOICE-ACTIVATED AI CHATBOT – USAGE GUIDE
+=========================================
+
+Welcome to your personal AI voice assistant built in Python. This guide explains how to use
+its features effectively, what voice commands it supports, and how to troubleshoot common issues.
+
+HOW TO START:
+--------------
+1. Connect your microphone and ensure it’s working.
+2. Open a terminal/command prompt in the project directory.
+3. Run the chatbot:
+   > python main.py
+4. The assistant will greet you and begin listening for voice commands.
+
+VOICE COMMANDS – WHAT YOU CAN SAY:
+-----------------------------------
+
+1. Web & Search:
+------------------
+- "Open Google" → Opens Google in your default browser.
+- "Open YouTube" → Launches YouTube.
+- "Search [your topic]" → Performs a Google search in your browser.
+
+2. Information:
+-----------------
+- "Search Wikipedia [topic]" → Reads a short summary of the topic.
+
+3. Time:
+----------
+- "What is the time?" → Announces the current time.
+
+4. Notes:
+-----------
+- "Write a note" → Dictate a note which is saved to a file.
+- "Read notes" → Reads all saved notes aloud.
+
+5. Reminders:
+---------------
+- "Set a reminder" → Set daily voice reminders. Say the time in 24-hour format: e.g., "1830" or "18:30"
+- "Show reminders" → Lists all scheduled reminders.
+
+6. System Control:
+--------------------
+- "Shutdown" → Shuts down your computer.
+- "Restart" → Restarts your computer.
+
+7. General Interaction:
+-------------------------
+- "Hello", "Hi", "How are you?" → Friendly responses.
+- "Bye", "Exit", "Quit" → Closes the assistant.
+
+8. Usage Tips:
+----------------
+- Speak clearly in a quiet environment.
+- Always use 24-hour format for reminders (e.g., “1850” = 6:50 PM).
+- For multi-word searches, pause slightly after “Search for”.
+- Ensure a stable internet connection for accurate voice recognition.
+
+9. Troubleshooting:
+---------------------
+- If nothing happens after you speak:
+  → Check your microphone connection.
+  → Try speaking again, slowly and clearly.
+- If you get a “Network error” message:
+  → Ensure your internet is connected.
+- If the assistant says “I didn’t catch that”:
+  → Background noise or unclear speech may be the cause.
+
+10. Files Used:
+-----------------
+- `main.py` → Main assistant code.
+- `note.txt` → Stores your saved notes.
+- `requirements.txt` → Python dependencies list.
+- `setup_instructions.txt` → Setup guide for installation.
+- `usage.txt` → This guide.
+
+=========================================
+Thank you for using the chatbot!

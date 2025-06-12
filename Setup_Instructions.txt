@@ -1,0 +1,56 @@
+Voice-Activated AI Chatbot – Setup Instructions
+=================================================
+
+1. Requirements:
+-------------------
+- Python 3.8 or above
+- Internet connection (for voice recognition and Wikipedia)
+- Microphone and speaker access
+
+2. Project Files:
+-------------------
+- main.py                --> Main chatbot script
+- requirements.txt       --> List of dependencies
+- note.txt               --> Optional: Stores your saved notes
+- setup_instructions.txt --> This file
+- README.md              --> Project summary and usage
+
+3. Create a Virtual Environment (Recommended):
+--------------------------------------------------
+> python -m venv venv
+> venv\Scripts\activate
+
+4. Install Dependencies:
+---------------------------
+- pip install -r requirements.txt
+
+5. Run the Application:
+---------------------------
+> python main.py
+
+Make sure your microphone is connected and working.
+
+6. Example Voice Commands:
+------------------------------
+- "Search Wikipedia for Python"
+- "Open Google"
+- "Search for AI tools"
+- "What is the time"
+- "Set a reminder"
+- "Write a note"
+- "Read notes"
+- "Shutdown" or "Restart"
+- "Exit"
+
+7. To Exit the Assistant:
+----------------------------
+Say: "Exit", "Quit", or "Bye"
+
+8. Troubleshooting:
+----------------------
+- If speech is not recognized, check your microphone settings.
+- If reminders don't trigger, ensure the scheduler thread is running (already handled in the code).
+- Use 24-hour format for reminders (e.g., 18:30 or 1830).
+
+==================================
+Thank you for using the chatbot!
